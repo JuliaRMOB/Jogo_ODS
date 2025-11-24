@@ -1,0 +1,18 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Rooms","order":5,"path":"folders/Rooms.yy",},
+    {"name":"Objetos","order":3,"path":"folders/Objetos.yy",},
+    {"name":"Scripts","order":4,"path":"folders/Scripts.yy",},
+    {"name":"Sprites","order":2,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oBlocoCima","order":1,"path":"objects/oBlocoCima/oBlocoCima.yy",},
+    {"name":"oBlocoMeio","order":2,"path":"objects/oBlocoMeio/oBlocoMeio.yy",},
+    {"name":"oMar","order":3,"path":"objects/oMar/oMar.yy",},
+    {"name":"sBlocoCima","order":3,"path":"sprites/sBlocoCima/sBlocoCima.yy",},
+    {"name":"sCoral","order":1,"path":"sprites/sCoral/sCoral.yy",},
+    {"name":"sMar","order":5,"path":"sprites/sMar/sMar.yy",},
+    {"name":"sPeixe","order":2,"path":"sprites/sPeixe/sPeixe.yy",},
+    {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
+  ],
+}
