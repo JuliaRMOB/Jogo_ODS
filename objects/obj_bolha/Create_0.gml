@@ -1,0 +1,2 @@
+colidiu = false
+nasceu = false
