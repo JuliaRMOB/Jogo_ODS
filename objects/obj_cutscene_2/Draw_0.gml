@@ -11,11 +11,11 @@ if _videoStatus == 0
 
 if video_get_status() == video_status_closed
 {
-	room_goto(rm_fase_1)
+	room_goto(rm_fase_2)
 } else
 {
 	if keyboard_check_pressed(vk_enter)
 	{
-		room_goto(rm_fase_1)
+		room_goto(rm_fase_2)
 	}
 }

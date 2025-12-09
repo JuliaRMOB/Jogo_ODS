@@ -10,8 +10,8 @@
   "name":"obj_peixe_pai",
   "overriddenProperties":[],
   "parent":{
-    "name":"Geral",
-    "path":"folders/Objetos/Geral.yy",
+    "name":"Fase1",
+    "path":"folders/Objetos/Fase1.yy",
   },
   "parentObjectId":{
     "name":"obj_coisa_no_mar",

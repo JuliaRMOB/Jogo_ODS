@@ -1,20 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_lixo_pai",
+  "%Name":"obj_paralaxe",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player_1","path":"objects/obj_player_1/obj_player_1.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_lixo_pai",
+  "name":"obj_paralaxe",
   "overriddenProperties":[],
   "parent":{
-    "name":"Fase1",
-    "path":"folders/Objetos/Fase1.yy",
+    "name":"Fase2",
+    "path":"folders/Objetos/Fase2.yy",
   },
-  "parentObjectId":{
-    "name":"obj_coisa_no_mar",
-    "path":"objects/obj_coisa_no_mar/obj_coisa_no_mar.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

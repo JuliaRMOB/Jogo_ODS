@@ -1,20 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_lixo_pai",
+  "%Name":"obj_prox_fase",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player_1","path":"objects/obj_player_1/obj_player_1.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_lixo_pai",
+  "name":"obj_prox_fase",
   "overriddenProperties":[],
   "parent":{
-    "name":"Fase1",
-    "path":"folders/Objetos/Fase1.yy",
+    "name":"Geral",
+    "path":"folders/Objetos/Geral.yy",
   },
-  "parentObjectId":{
-    "name":"obj_coisa_no_mar",
-    "path":"objects/obj_coisa_no_mar/obj_coisa_no_mar.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -32,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_prox_fase",
+    "path":"sprites/spr_prox_fase/spr_prox_fase.yy",
+  },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
