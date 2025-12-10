@@ -1,5 +1,5 @@
-var w = surface_get_width(application_surface);
-var h = surface_get_height(application_surface);
+var w = room_width;
+var h = room_height;
 
 var _videoData   = video_draw()
 var _videoStatus = _videoData[0]
@@ -11,11 +11,11 @@ if _videoStatus == 0
 
 if video_get_status() == video_status_closed
 {
-	room_goto(Room1)
+	room_goto(rm_fase_1)
 } else
 {
-	if keyboard_check_pressed(vk_space)
+	if keyboard_check_pressed(vk_enter)
 	{
-		room_goto(Room1)
+		room_goto(rm_fase_1)
 	}
 }

@@ -4,17 +4,18 @@
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_player_1","path":"objects/obj_player_1/obj_player_1.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_peixe_pai",
   "overriddenProperties":[],
   "parent":{
-    "name":"Geral",
-    "path":"folders/Objetos/Geral.yy",
+    "name":"Fase1",
+    "path":"folders/Objetos/Fase1.yy",
   },
   "parentObjectId":{
-    "name":"obj_colisao",
-    "path":"objects/obj_colisao/obj_colisao.yy",
+    "name":"obj_coisa_no_mar",
+    "path":"objects/obj_coisa_no_mar/obj_coisa_no_mar.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

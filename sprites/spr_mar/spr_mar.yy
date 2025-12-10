@@ -19,7 +19,7 @@
   "height":32,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"91881e48-df8a-450d-8d30-7ed5fe3de43a","blendMode":0,"displayName":"default","isLocked":false,"name":"91881e48-df8a-450d-8d30-7ed5fe3de43a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"91881e48-df8a-450d-8d30-7ed5fe3de43a","blendMode":0,"displayName":"default","isLocked":false,"name":"91881e48-df8a-450d-8d30-7ed5fe3de43a","opacity":20.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_mar",
   "nineSlice":{
